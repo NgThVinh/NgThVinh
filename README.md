@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinh.</h1>
-<h3 align="center">A software AI deverloper</h3>
+<h3 align="center">A software AI developer</h3>
 
 - ☕ I'm interested in AI agent application.
   
